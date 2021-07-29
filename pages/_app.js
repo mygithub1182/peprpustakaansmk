@@ -12,7 +12,6 @@ import '../styles/Navigation-with-Search.css'
 import '../styles/Pretty-Header.css'
 import '../styles/Pretty-Registration-Form.css'
 import '../styles/Projects-Clean.css'
-import '../styles/styles.css'
 import 'react-bootstrap'
 // import '@trendmicro/react-sidenav/dist/react-sidenav.css';
 import "../styles/Features-Boxed.css"
